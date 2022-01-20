@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c23c056d-fe59-4879-bb19-5c2545d7e985" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
-    </list>
+    <list default="true" id="c23c056d-fe59-4879-bb19-5c2545d7e985" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -199,12 +196,31 @@
       <option name="presentableId" value="Default" />
       <updated>1642081358947</updated>
       <workItem from="1642081363319" duration="2701000" />
-      <workItem from="1642671445917" duration="4326000" />
+      <workItem from="1642671445917" duration="4634000" />
     </task>
+    <task id="LOCAL-00001" summary="docker tp2">
+      <created>1642676246520</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1642676246520</updated>
+    </task>
+    <task id="LOCAL-00002" summary="docker tp2">
+      <created>1642676409087</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1642676409087</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="docker tp2" />
+    <option name="LAST_COMMIT_MESSAGE" value="docker tp2" />
   </component>
   <component name="WindowStateProjectService">
     <state x="407" y="349" width="457" height="346" key="#Docker" timestamp="1642082948009">
@@ -215,14 +231,14 @@
       <screen x="0" y="25" width="1280" height="999" />
     </state>
     <state x="407" y="349" width="457" height="346" key="#New_Docker_Connection/0.25.1280.999@0.25.1280.999" timestamp="1642081382874" />
-    <state x="261" y="77" width="769" height="874" key="CommitChangelistDialog2" timestamp="1642675932682">
+    <state x="261" y="77" width="769" height="874" key="CommitChangelistDialog2" timestamp="1642676409022">
       <screen x="0" y="25" width="1280" height="999" />
     </state>
-    <state x="261" y="77" width="769" height="874" key="CommitChangelistDialog2/0.25.1280.999@0.25.1280.999" timestamp="1642675932682" />
-    <state x="433" y="274" width="426" height="479" key="FileChooserDialogImpl" timestamp="1642675920608">
+    <state x="261" y="77" width="769" height="874" key="CommitChangelistDialog2/0.25.1280.999@0.25.1280.999" timestamp="1642676409022" />
+    <state x="433" y="274" width="426" height="479" key="FileChooserDialogImpl" timestamp="1642676360671">
       <screen x="0" y="25" width="1280" height="999" />
     </state>
-    <state x="433" y="274" width="426" height="479" key="FileChooserDialogImpl/0.25.1280.999@0.25.1280.999" timestamp="1642675920608" />
+    <state x="433" y="274" width="426" height="479" key="FileChooserDialogImpl/0.25.1280.999@0.25.1280.999" timestamp="1642676360671" />
     <state x="245" y="252" width="802" height="523" key="Vcs.Push.Dialog.v2" timestamp="1642676208753">
       <screen x="0" y="25" width="1280" height="999" />
     </state>
